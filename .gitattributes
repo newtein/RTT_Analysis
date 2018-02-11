@@ -1,1 +1,7 @@
-*.rb linguist-language=Java
+# Some examples of various styles:
+vim: syntax=python
+vim: set syntax=python:
+vim: set filetype=python:
+vim: set ft=python:
+
+*.rb linguist-language=Python
